@@ -1,4 +1,7 @@
-# IArch_bootstrap
+# iArch
+
+Responsive architecture website built with Bootstrap, HTML, CSS, and JavaScript.
+
 just a simple bootstrap site
 
 
